@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.2": {},
+    ".NETFramework,Version=v4.6.2/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\azbalaye\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "C:\\Users\\azbalaye\\source\\repos\\WebApplicationDocker\\dotnetapp-4.6.2\\dotnetapp-4.6.2.csproj",
+      "projectName": "dotnetapp-4.6.2",
+      "projectPath": "C:\\Users\\azbalaye\\source\\repos\\WebApplicationDocker\\dotnetapp-4.6.2\\dotnetapp-4.6.2.csproj",
+      "packagesPath": "C:\\Users\\azbalaye\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\azbalaye\\source\\repos\\WebApplicationDocker\\dotnetapp-4.6.2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\azbalaye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net462"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://qahb201:8080/tfs/Monster/_packaging/Packages/nuget/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net462": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net462": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

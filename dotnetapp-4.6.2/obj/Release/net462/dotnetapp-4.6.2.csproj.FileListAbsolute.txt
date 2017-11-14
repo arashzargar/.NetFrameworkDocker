@@ -1,0 +1,9 @@
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\bin\Release\net462\dotnetapp-4.6.2.exe.config
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\bin\Release\net462\dotnetapp-4.6.2.exe
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\bin\Release\net462\dotnetapp-4.6.2.pdb
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\obj\Release\net462\dotnetapp-4.6.2.csprojResolveAssemblyReference.cache
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\obj\Release\net462\dotnetapp-4.6.2.csproj.CoreCompileInputs.cache
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\obj\Release\net462\dotnetapp-4.6.2.AssemblyInfoInputs.cache
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\obj\Release\net462\dotnetapp-4.6.2.AssemblyInfo.cs
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\obj\Release\net462\dotnetapp-4.6.2.exe
+C:\Users\azbalaye\source\repos\WebApplicationDocker\dotnetapp-4.6.2\obj\Release\net462\dotnetapp-4.6.2.pdb
